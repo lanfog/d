@@ -1,11 +1,11 @@
-# 下载
+# download
 
-## 替换 blob -> raw
-`https://gitee.com/lanfog/download/blob/master/fauxconsole.js`  
-`https://gitee.com/lanfog/download/raw/master/fauxconsole.js`
+## replace blob -> raw
+`https://github.com/lanfog/d/blob/main/fauxconsole.js`  
+`https://raw.githubusercontent.com/lanfog/d/main/fauxconsole.js`
 
-## 常用链接
-[IE6789浏览器使用console.log](https://gitee.com/lanfog/download/raw/master/fauxconsole.js)  
-`Markdown` [显示效果](https://gitee.com/lanfog/download/blob/master/markdown.md)
-[原始数据](https://gitee.com/lanfog/download/raw/master/markdown.md)
-[在线编译器](https://tool.oschina.net/markdown)
+## links
+[IE6789 - console.log](https://raw.githubusercontent.com/lanfog/d/main/fauxconsole.js)  
+`Markdown` [UI](https://github.com/lanfog/d/blob/main/markdown.md)
+[Raw](https://raw.githubusercontent.com/lanfog/d/main/markdown.md)
+[Editor](https://tool.oschina.net/markdown)
